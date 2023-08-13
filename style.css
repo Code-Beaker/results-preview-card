@@ -58,7 +58,7 @@ body {
 
 .card {
   display: grid;
-  max-width: 50rem;
+  max-width: calc(50rem - 5.75rem);
   grid-template-columns: 1fr;
 }
 
