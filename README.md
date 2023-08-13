@@ -50,4 +50,5 @@ Been playing around this one three or four times. But, I never got a clue of how
 ## Links
 
 - GitHub Repository: [Code-Beaker/results-preview-card](https://github.com/Code-Beaker/results-preview-card)
-- Live Site:
+- GitHub Pages: [code-beaker/results-preview-card](https://code-beaker.github.io/results-preview-card/)
+- Netlify: [results-preview-card](https://results-preview-card.netlify.app/)
