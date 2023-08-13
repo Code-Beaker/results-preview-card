@@ -49,5 +49,5 @@ Been playing around this one three or four times. But, I never got a clue of how
 
 ## Links
 
-- GitHub Repository:
+- GitHub Repository: [Code-Beaker/results-preview-card](https://github.com/Code-Beaker/results-preview-card)
 - Live Site:
